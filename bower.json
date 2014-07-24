@@ -1,6 +1,6 @@
 {
   "name": "hello",
-  "main": "hello.js",
+  "main": ["hello.js", "bye.js"],
   "version": "0.0.0",
   "authors": [
     "beku <beku2009@gmail.com>"
