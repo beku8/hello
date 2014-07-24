@@ -1,0 +1,16 @@
+{
+  "name": "hello",
+  "main": "hello.js",
+  "version": "0.0.0",
+  "authors": [
+    "beku <beku2009@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
