@@ -1,6 +1,6 @@
 angular.module('hello', [])
 
-.directive('hello-world', function() {
+.directive('helloWorld', function() {
 	return {
 		template: 'Hello world!'
 	};
